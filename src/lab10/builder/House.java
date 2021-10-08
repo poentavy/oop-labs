@@ -24,8 +24,7 @@ public class House {
 
 
 		// TODO: complete the house builder constructor only with the mandatory facilities
-		public HouseBuilder(String location, int numberOfFloors, String heating,
-							ArrayList<String> rooms) {
+		public HouseBuilder() {
 
 		}
 
