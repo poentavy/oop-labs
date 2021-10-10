@@ -1,6 +1,7 @@
 package lab7.task1;
 
-import com.poo.labvisitor.task1.document.TextSegment;
+
+import lab7.task1.document.TextSegment;
 
 import java.util.ArrayList;
 import java.util.List;

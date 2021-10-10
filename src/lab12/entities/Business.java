@@ -1,8 +1,8 @@
 package lab12.entities;
 
-import java.util.*;
+import lab12.exceptions.ExistsException;
 
-import com.poo.lab12.exceptions.ExistsException;
+import java.util.*;
 
 public class Business {
     

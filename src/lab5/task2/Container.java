@@ -1,6 +1,6 @@
 package lab5.task2;
 
-import first.Task;
+import lab5.task1.Task;
 
 public interface Container {
     /**

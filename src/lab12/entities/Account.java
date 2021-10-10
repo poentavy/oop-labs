@@ -1,8 +1,8 @@
 package lab12.entities;
 
-import java.util.Objects;
+import lab12.exceptions.NotEnoughFundsException;
 
-import com.poo.lab12.exceptions.NotEnoughFundsException;
+import java.util.Objects;
 
 public class Account {
     private int id;
